@@ -11,11 +11,11 @@ Cashiers and managers also reach the back-end through the web portal and point-o
 ## TC3-Project-Core
 
 Documentation for the TC3 project: user stories, use cases, and diagrams.
-In this repository are three top-level folders: Final, Source, and Starter.
+In this repository are three top-level folders: Starter, Final, and Resources.
 The Starter folder contains resources, many of which contain errors for participants to locate and fix.
 THe Final folder contains final versions of the resources that may be used to build the projects; specific instances of these may be copied into
 the related project repositories.
-The Source folder contains the source for what ends up in Starter and Final as PDF files.
+The Resources folder contains the source for what ends up in Starter and Final as PDF files.
 Visual Paradigm [https://www.visual-paradigm.com/](https://www.visual-paradigm.com/) is the tool used for UML and database diagrams.
 Microsoft Word is used for the user stories and use cases.
 
@@ -43,12 +43,15 @@ This core project documentation does not have a particular structure for buildin
 ## Project Details
 
 This is part of of the larger Caribbean Coffee Company suite of components using different technologies and programming languages that fit into the TC3 project.
-Learn more at [https://gitlab.com/tc3-project](https://gitlab.com/tc3-project).
+Learn more at [https://gitlab.com/tc3-project](https://gitlab.com/tc3-project) or [https://github.com/tc3-project](https://github.com/tc3-project).
 This core project will be updated frequently as the project evolves.
 
 ## Revision History
 
+The versions are tagged in GIT as v1.0, etc.
+
 * Version 1.0 - Initial release of a new project core with starter and final entity-relationship diagrams.
+* Version 1.1 - Updated README.md changing Sources to Resources and added a reference to the identical copies of all the tc3-project repositories at [GitHub](https://github.com/tc3-project) (origin is at [GitLab](https://gitlab.com/tc3-project)). Added .gitignore files to preserve the empty folders, and merged the web service vision statement into this project.
 
 <hr>
 Copyright © 2019-2020 Joel A Mussman. All rights reserved.
